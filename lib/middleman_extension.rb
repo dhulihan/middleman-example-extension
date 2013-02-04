@@ -1,1 +1,1 @@
-require "middleman-example-extension"
+require "middleman_example_extension"
