@@ -17,7 +17,7 @@ Add this to `Gemfile`:
 gem "middleman-example-extension", :path => File.expand_path(File.dirname(__FILE__) + "/vendor/gems")
 ```
 
-Add this to `config/rb`:
+Add this to `config.rb`:
 
 ```rb
 activate :middleman_example_extension do |middleman_example_extension| 
